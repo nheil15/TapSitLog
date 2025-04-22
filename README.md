@@ -1,4 +1,4 @@
-# TapSit
+# TapSitLog
 a web application where you have kiosk in your hand
 
 <details>
@@ -23,7 +23,7 @@ a web application where you have kiosk in your hand
 <p align="justify">
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="#top"><strong>TapSitLog</strong></a> is a QR code-based restaurant ordering system designed to enhance the dining experience and improve operational efficiency. 
 It enables real-time digital ordering, supports contactless service, and provides restaurant staff with management tools to streamline service and reduce errors.
-</p>
+</p>1
 
 <!-- SUSTAINABLE DEVELOPMENT GOAL -->
 <h2 id="sdg">🌍 Sustainable Development Goal </h2>
