@@ -81,10 +81,9 @@ It enables real-time digital ordering, supports contactless service, and provide
 <h2 id="preview">🫣 Preview </h2>
 
 <!-- GETTING STARTED -->
-<h2 id="getting-started">🚦Getting Started </h2>
+<h2 id="getting-started">🚀 Getting Started </h2>
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#top"><strong>TapSitLog</strong></a> is a QR code-based restaurant ordering system designed to enhance the dining experience and improve operational efficiency. 
-It enables real-time digital ordering, supports contactless service, and provides restaurant staff with management tools to streamline service and reduce errors.
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#top"><strong>TapSitLog</strong></a>  is a QR code-based ordering system that allows customers to scan table-specific codes, browse the menu, place orders, and make payments. This guide helps you set up the project for local development or deployment in a restaurant LAN or internet-connected environment.
 </p>
 
 
@@ -93,6 +92,47 @@ It enables real-time digital ordering, supports contactless service, and provide
 
 <!-- USAGE -->
 <h2 id="usage">🖥️ Usage </h2>
+
+<h3>👤For Customers</h3>
+<ol>
+  <li><strong>Scan the QR Code:</strong> Use your smartphone's camera to scan the table-specific QR code.</li>
+  
+  <li><strong>Access the Digital Menu:</strong> After scanning, you'll be redirected to a mobile-friendly menu page.</li>
+  
+  <li><strong>Browse and Place Orders:</strong> Select your desired items, customize options (if available), and add them to your cart.</li>
+  
+  <li><strong>Review Cart and Checkout:</strong> Review your order on the Cart page. You may edit or remove items before confirming.</li>
+  
+  <li><strong>Choose Payment Method:</strong>
+    <ul>
+      <li><strong>Online:</strong> Pay securely using GCash or Maya.</li>
+      <li><strong>Over-the-Counter (OTC):</strong> A barcode will be generated for the cashier to scan.</li>
+    </ul>
+  </li>
+  
+  <li><strong>Receive E-Receipt:</strong> After successful payment, a downloadable image receipt will be provided.</li>
+</ol>
+
+<h3>For Restaurant Staff</h3>
+<p><strong>👩‍🍳 As a Cashier or Waitstaff:</strong></p>
+<ol>
+  <li><strong>Access Admin Panel:</strong> Login using your staff credentials.</li>
+  
+  <li><strong>View Counter Page:</strong> Manually input or edit walk-in or OTC orders.</li>
+  
+  <li><strong>Scan Barcodes (for OTC):</strong> Use a barcode scanner to retrieve customer orders for payment processing.</li>
+</ol>
+
+<h3>👨‍💼 As an Administrator</h3>
+<ol>
+  <li><strong>Login to Dashboard:</strong> Access the admin dashboard using administrator credentials.</li>
+  
+  <li><strong>Manage Menu and Inventory:</strong> Add, update, or remove menu items. Track inventory and supply levels.</li>
+  
+  <li><strong>Generate QR and Barcodes:</strong> Use the QR/Barcode Generator to set up table-specific access or OTC payment support.</li>
+  
+  <li><strong>Monitor Orders and Reports:</strong> View real-time order summaries and transaction histories.</li>
+</ol>
 
 
 <!-- CONTRIBUTORS --> 
