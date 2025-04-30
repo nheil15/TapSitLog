@@ -19,7 +19,15 @@
     <li><a href="#features">Key Features</a></li>
     <li><a href="#framework">Programming Language and Frameworks Used</a></li>
     <li><a href="#preview">Preview</a></li>
+     <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation and Setup</a></li>
+        <li><a href="#usage">Usage</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributors</a></li>
+    <li><a href="#instructor">Instructor</a></li>
     <li><a href="#links">Important Links</a></li>
     <li><a href="#acknowledgments">Acknowledegments</a></li>
   </ol>
@@ -62,7 +70,7 @@ It enables real-time digital ordering, supports contactless service, and provide
 <!-- Programming Language and Frameworks Used -->
 ## 🤖 Programming Language and Frameworks Used
 
-- **Programming Language Used**: 
+- **Programming Language Used**: [![Node.js][Node-logo]][Node-url] [![Express.js][Express-logo]][Express-url]
 - **Framework**: [![React][React-logo]][React-url] [![Node.js][Node-logo]][Node-url]  
 - **Frontend**: [![HTML][HTML-logo]][HTML-url] [![CSS][CSS-logo]][CSS-url]  
 - **Backend**: [![JavaScript][JS-logo]][JS-url]   
@@ -71,6 +79,21 @@ It enables real-time digital ordering, supports contactless service, and provide
 
 <!-- PREVIEW -->
 <h2 id="preview">🫣 Preview </h2>
+
+<!-- GETTING STARTED -->
+<h2 id="getting-started">🚦Getting Started </h2>
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#top"><strong>TapSitLog</strong></a> is a QR code-based restaurant ordering system designed to enhance the dining experience and improve operational efficiency. 
+It enables real-time digital ordering, supports contactless service, and provides restaurant staff with management tools to streamline service and reduce errors.
+</p>
+
+
+<!-- INSTALLATION AND SETUP -->
+<h2 id="installation">⚒️ Installation and Setup </h2>
+
+<!-- USAGE -->
+<h2 id="usage">🖥️ Usage </h2>
+
 
 <!-- CONTRIBUTORS --> 
 <h2 id="contributing">👩‍💻 Contributors</h2> 
@@ -116,6 +139,9 @@ It enables real-time digital ordering, supports contactless service, and provide
   </tr> 
 </table>
 
+<h2 id="instructor">👩‍🏫 Instructor </h2>
+<h3>Ms. Fatima Marie Agdon, MSCS</h3>
+
 <!-- IMPORTANT LINKS -->
 <h2 id="links">🔗 Important Links </h2>
 
@@ -143,3 +169,6 @@ It enables real-time digital ordering, supports contactless service, and provide
 [Barcode-url]: https://www.barcodesinc.com/generator/index.php  
 [Iconify-logo]: https://img.shields.io/badge/Iconify-000000?style=for-the-badge&logo=iconify&logoColor=white  
 [Iconify-url]: https://iconify.design/
+[Express-logo]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white  
+[Express-url]: https://expressjs.com/  
+
