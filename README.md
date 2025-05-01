@@ -160,7 +160,7 @@ It enables real-time digital ordering, supports contactless service, and provide
       </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="250px;" alt="GitHub Logo Placeholder"/>
+          <img src="https://github.com/user-attachments/assets/47071fe7-2cc2-442a-b15e-94b4ce66e955" width="250px;" alt="Nheil's Github Profile"/>
           <br>
           <b>Eduria, Nheil G.</b>
           <br>
