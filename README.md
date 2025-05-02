@@ -169,7 +169,7 @@ It enables real-time digital ordering, supports contactless service, and provide
             </a>
     </td>
     <td align="center" width="25%" style="padding: 10px;"> 
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="250px;" alt="GitHub Logo Placeholder"/>
+      <img src="https://github.com/user-attachments/assets/03d7b04e-e0ff-4a5b-b7b6-1de8bd84005e" width="250px;" alt="Vex's Github Profile"/>
       <br>
       <b>Sumang, Vex Ivan C.</b>
       <br>
