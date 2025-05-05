@@ -186,8 +186,15 @@ It enables real-time digital ordering, supports contactless service, and provide
 <!-- IMPORTANT LINKS -->
 <h2 id="links">🔗 Important Links </h2>
 
-<!-- ACKNOLEDGEMENT -->
-<h2 id="acknowledgments">🙏 Acknowledgement </h2>
+<!-- ACKNOWLEDGEMENT -->
+<h2 id="acknowledgments">🙏 Acknowledgement</h2>
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;We extend our heartfelt gratitude to our team members for their dedication, collaboration, and invaluable contributions to the TapSitLog project. Each member played a vital role, offering unique perspectives and technical skills that shaped the system into what it is. The successful completion of this restaurant ordering system was made possible through teamwork, shared vision, and countless hours of planning, development, and testing. This journey not only strengthened our collaboration but also deepened our understanding of practical software engineering and real-world system design.
+
+  &nbsp;&nbsp;&nbsp;&nbsp;We also sincerely appreciate Ms. Fatima Marie P. Agdon, MSCS, our course instructor, for her consistent guidance, feedback, and support throughout the development of this project. Her insights and expertise were instrumental in helping us apply key software engineering principles and stay aligned with best practices.
+
+  &nbsp;&nbsp;&nbsp;&nbsp;Thank you for your dedication, passion, and support in helping us bring this project to life.
+</p>
 
 
 [JS-logo]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black  
