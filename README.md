@@ -28,7 +28,6 @@
     </li>
     <li><a href="#contributing">Contributors</a></li>
     <li><a href="#instructor">Instructor</a></li>
-    <li><a href="#links">Important Links</a></li>
     <li><a href="#acknowledgments">Acknowledegments</a></li>
   </ol>
 </details>
@@ -128,7 +127,7 @@ It enables real-time digital ordering, supports contactless service, and provide
 <ol>
   <li><strong>Login to Dashboard:</strong> Access the admin dashboard using administrator credentials.</li>
   
-  <li><strong>Manage Menu and Inventory:</strong> Add, update, or remove menu items. Track inventory and supply levels.</li>
+  <li><strong>Manage Menu:</strong> Add, update, or remove menu items.</li>
   
   <li><strong>Generate QR and Barcodes:</strong> Use the QR/Barcode Generator to set up table-specific access or OTC payment support.</li>
   
@@ -182,9 +181,6 @@ It enables real-time digital ordering, supports contactless service, and provide
 
 <h2 id="instructor">👩‍🏫 Instructor </h2>
 <h3>Ms. Fatima Marie Agdon, MSCS</h3>
-
-<!-- IMPORTANT LINKS -->
-<h2 id="links">🔗 Important Links </h2>
 
 <!-- ACKNOWLEDGEMENT -->
 <h2 id="acknowledgments">🙏 Acknowledgement</h2>
