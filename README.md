@@ -18,7 +18,6 @@
     </li>
     <li><a href="#features">Key Features</a></li>
     <li><a href="#framework">Programming Language and Frameworks Used</a></li>
-    <li><a href="#preview">Preview</a></li>
      <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -28,7 +27,7 @@
     </li>
     <li><a href="#contributing">Contributors</a></li>
     <li><a href="#instructor">Instructor</a></li>
-    <li><a href="#acknowledgments">Acknowledegments</a></li>
+    <li><a href="#acknowledgments">Acknowledegment</a></li>
   </ol>
 </details>
 
@@ -76,8 +75,7 @@ It enables real-time digital ordering, supports contactless service, and provide
 - **Database**: [![MongoDB][MongoDB-logo]][MongoDB-url]  
 - **Tools**: [![React Router][ReactRouter-logo]][ReactRouter-url] [![QR Code Generator API][QRCode-logo]][QRCode-url] [![Barcode Generator][Barcode-logo]][Barcode-url] [![Iconify][Iconify-logo]][Iconify-url]
 
-<!-- PREVIEW -->
-<h2 id="preview">🫣 Preview </h2>
+
 
 <!-- GETTING STARTED -->
 <h2 id="getting-started">🚀 Getting Started </h2>
