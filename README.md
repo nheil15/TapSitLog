@@ -176,7 +176,7 @@ It enables real-time digital ordering, supports contactless service, and provide
       <br>
       <b>Abril, Danielle Ziac R.</b>
         <a href="https://github.com/DanielleZiac">
-          <img src="https://img.shields.io/badge/GitHub-DanielleZiac-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ziac's GitHub Profile Badge"/>
+          <img src="https://img.shields.io/badge/GitHub-DanielleZiac-181717?style=for-the-badge&logo=github&logoColor=white" alt="Danielle Ziac's GitHub Profile Badge"/>
         </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
@@ -194,7 +194,7 @@ It enables real-time digital ordering, supports contactless service, and provide
           <b>Eduria, Nheil G.</b>
           <br>
             <a href="https://github.com/nheil15">
-              <img src="https://img.shields.io/badge/GitHub-nheil15-181717?style=for-the-badge&logo=github&logoColor=white" alt="nheil15's GitHub Profile Badge"/>
+              <img src="https://img.shields.io/badge/GitHub-nheil15-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nheil's GitHub Profile Badge"/>
             </a>
     </td>
     <td align="center" width="25%" style="padding: 10px;"> 
