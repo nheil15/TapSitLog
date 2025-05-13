@@ -18,7 +18,6 @@
     </li>
     <li><a href="#features">Key Features</a></li>
     <li><a href="#framework">Programming Language and Frameworks Used</a></li>
-    <li><a href="#preview">Preview</a></li>
      <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -75,39 +74,6 @@ It enables real-time digital ordering, supports contactless service, and provide
 - **Backend**: [![JavaScript][JS-logo]][JS-url]   
 - **Database**: [![MongoDB][MongoDB-logo]][MongoDB-url]  
 - **Tools**: [![React Router][ReactRouter-logo]][ReactRouter-url] [![QR Code Generator API][QRCode-logo]][QRCode-url] [![Barcode Generator][Barcode-logo]][Barcode-url] [![Iconify][Iconify-logo]][Iconify-url]
-
-<!-- PREVIEW -->
-<h2 id="preview">🫣 Preview </h2>
-<h3>👤Customer's View</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/7bd54a42-75f0-4b0e-8bdc-1e761bce5cbe" width="220"></td>
-      <td><img src="https://github.com/user-attachments/assets/17447641-db78-46ee-ae98-c2b6a4b3f8d4" width="220"></td>
-      <td><img src="https://github.com/user-attachments/assets/f5a08882-e4f3-4184-9309-d3dd15d49096" width="220"></td>
-      <td><img src="https://github.com/user-attachments/assets/dd682e4a-3e88-43a3-a6ef-9c0f753e32f5" width="220"></td>
-    </tr>
-  </table>
-</div>
-
-<h3>👨‍💼Administrator's View</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/0010059b-1517-47cd-947f-f32f8091c327" width="500"></td>
-      <td><img src="https://github.com/user-attachments/assets/254bfd10-be71-4256-b48a-4c68548a1af7" width="500"></td>
-    </tr>
-  </table>
-    <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/0585175a-7087-4b70-9545-4823b4b16939" width="500"></td>
-      <td><img src="https://github.com/user-attachments/assets/4100c7c9-d8b9-45d2-b2ac-6a12cf0fe789" width="500"></td>
-    </tr>
-  </table>
-
-</div>
-
-
 
 <!-- GETTING STARTED -->
 <h2 id="getting-started">🚀 Getting Started </h2>
